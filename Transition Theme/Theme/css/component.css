@@ -73,41 +73,45 @@ a:hover {
 .bl-main > section:first-child {
 	top: 0;
 	left: 0;
-	background: url('../images/back2.jpg') no-repeat; 
+	background-color: #144057;
+/*	background: url('../images/entrepreneur.jpg') no-repeat; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
-	  background-size: cover;
+	  background-size: cover;*/
 }
 
 .bl-main > section:nth-child(2) {
 	top: 0;
 	left: 50%;
-	background: url('../images/back3.jpg') no-repeat; 
+	background-color: #2c2c2c;
+/*	background: url('../images/lawyer1.jpg') no-repeat; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
-	  background-size: cover;
+	  background-size: cover;*/
 }
 
 .bl-main > section:nth-child(3) {
 	top: 50%;
 	left: 0;
-	background: url('../images/back4.jpg') no-repeat; 
+	background-color: #ee6557;
+/*	background: url('../images/web_developer1.jpg') no-repeat; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
-	  background-size: cover;
+	  background-size: cover;*/
 }
 
 .bl-main > section:nth-child(4) {
 	top: 50%;
 	left: 50%;
-	background: url('../images/back5.jpg') no-repeat; 
+	background-color: #bfbfbf;
+/*	background: url('../images/contact1.jpg') no-repeat; 
 	  -webkit-background-size: cover;
 	  -moz-background-size: cover;
 	  -o-background-size: cover;
-	  background-size: cover;
+	  background-size: cover;*/
 }
 
 .bl-box {
